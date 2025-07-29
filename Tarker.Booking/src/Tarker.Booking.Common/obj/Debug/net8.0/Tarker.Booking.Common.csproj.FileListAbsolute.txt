@@ -1,0 +1,11 @@
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.deps.json
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.dll
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\bin\Debug\net8.0\Tarker.Booking.Common.pdb
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.AssemblyInfoInputs.cache
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.AssemblyInfo.cs
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.csproj.CoreCompileInputs.cache
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.dll
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\refint\Tarker.Booking.Common.dll
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\Tarker.Booking.Common.pdb
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Tarker.Booking.Common\obj\Debug\net8.0\ref\Tarker.Booking.Common.dll

@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{578AC68B-22D1-4BA2-9F9D-AE1CD1F0E7D4}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.domain\\entities\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578AC68B-22D1-4BA2-9F9D-AE1CD1F0E7D4}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\user\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578AC68B-22D1-4BA2-9F9D-AE1CD1F0E7D4}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.domain\\entities\\booking\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578AC68B-22D1-4BA2-9F9D-AE1CD1F0E7D4}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\booking\\bookingentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D405C99-7B41-4635-B391-366487F22599}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.persistence\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D405C99-7B41-4635-B391-366487F22599}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\configuration\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578AC68B-22D1-4BA2-9F9D-AE1CD1F0E7D4}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.domain\\entities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578AC68B-22D1-4BA2-9F9D-AE1CD1F0E7D4}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\entities\\customer\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D405C99-7B41-4635-B391-366487F22599}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.persistence\\configuration\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D405C99-7B41-4635-B391-366487F22599}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\configuration\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A589839-7D55-F4FF-7B86-1323E4207527}|src\\Target.Booking.Api\\Target.Booking.Api.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\target.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A589839-7D55-F4FF-7B86-1323E4207527}|src\\Target.Booking.Api\\Target.Booking.Api.csproj|solutionrelative:src\\target.booking.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{578AC68B-22D1-4BA2-9F9D-AE1CD1F0E7D4}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{578AC68B-22D1-4BA2-9F9D-AE1CD1F0E7D4}|src\\Tarker.Booking.Domain\\Tarker.Booking.Domain.csproj|solutionrelative:src\\tarker.booking.domain\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5779DF45-28F0-4035-B1EE-91F4888E3E18}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.application\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5779DF45-28F0-4035-B1EE-91F4888E3E18}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\interfaces\\idatabaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5779DF45-28F0-4035-B1EE-91F4888E3E18}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.application\\tarker.booking.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5779DF45-28F0-4035-B1EE-91F4888E3E18}|src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj|solutionrelative:src\\tarker.booking.application\\tarker.booking.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D405C99-7B41-4635-B391-366487F22599}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.persistence\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D405C99-7B41-4635-B391-366487F22599}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\database\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D405C99-7B41-4635-B391-366487F22599}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|c:\\users\\santiago.rodriguez\\desktop\\desarrollo\\tarker.booking\\src\\tarker.booking.persistence\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D405C99-7B41-4635-B391-366487F22599}|src\\Tarker.Booking.Persistence\\Tarker.Booking.Persistence.csproj|solutionrelative:src\\tarker.booking.persistence\\configuration\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1342,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Application\\Interfaces\\IDataBaseService.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\Interfaces\\IDataBaseService.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Application\\Interfaces\\IDataBaseService.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\Interfaces\\IDataBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T23:22:59.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Tarker.Booking.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+              "RelativeToolTip": "src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-04T23:22:42.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Database\\DataBaseService.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\Database\\DataBaseService.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Database\\DataBaseService.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\Database\\DataBaseService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAwwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T22:56:45.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookingConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\BookingConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\Configuration\\BookingConfiguration.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\BookingConfiguration.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\Configuration\\BookingConfiguration.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T22:29:27.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\Configuration\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\CustomerConfiguration.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\Configuration\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T22:23:42.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Persistence\\Configuration\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Persistence\\Configuration\\UserConfiguration.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Persistence\\Configuration\\UserConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA0wBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T20:50:58.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Target.Booking.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Target.Booking.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Target.Booking.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Target.Booking.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T20:17:00.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingType.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Enums\\BookingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:04:25.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingEntity.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\Booking\\BookingEntity.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:03:05.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\Customer\\CustomerEntity.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:02:04.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "RelativeDocumentMoniker": "src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\Tarker.Booking\\src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "RelativeToolTip": "src\\Tarker.Booking.Domain\\Entities\\User\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T16:01:11.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
