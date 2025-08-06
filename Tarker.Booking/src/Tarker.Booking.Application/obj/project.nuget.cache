@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Wc1WelXGRzE=",
+  "dgSpecHash": "vEWF+3WFKq4=",
   "success": true,
   "projectFilePath": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\.NET8TarkerBooking\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santiago.rodriguez\\.nuget\\packages\\automapper\\15.0.1\\automapper.15.0.1.nupkg.sha512",
+    "C:\\Users\\santiago.rodriguez\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\santiago.rodriguez\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.7\\microsoft.entityframeworkcore.9.0.7.nupkg.sha512",
     "C:\\Users\\santiago.rodriguez\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.7\\microsoft.entityframeworkcore.abstractions.9.0.7.nupkg.sha512",
     "C:\\Users\\santiago.rodriguez\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.7\\microsoft.entityframeworkcore.analyzers.9.0.7.nupkg.sha512",
@@ -23,6 +24,18 @@
     "C:\\Users\\santiago.rodriguez\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.7\\system.diagnostics.diagnosticsource.9.0.7.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Se detectó una versión del paquete fuera de la restricción de dependencia: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requiere AutoMapper (= 12.0.1), pero la versión AutoMapper 15.0.1 ya se resolvió.",
+      "projectPath": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\.NET8TarkerBooking\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\.NET8TarkerBooking\\Tarker.Booking\\src\\Tarker.Booking.Application\\Tarker.Booking.Application.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
     {
       "code": "NU1900",
       "level": "Warning",
