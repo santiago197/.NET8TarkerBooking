@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "jAHxnqh1uYw=",
+  "dgSpecHash": "hymT8iSr9X8=",
   "success": true,
   "projectFilePath": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\.NET8TarkerBooking\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\santiago.rodriguez\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error al obtener los datos de vulnerabilidad del paquete: No se puede cargar el índice de servicio del origen https://fuji.sincoerp.com/SincoERP/_packaging/ERP4.0/nuget/v3/index.json.",
+      "projectPath": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\.NET8TarkerBooking\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\santiago.rodriguez\\Desktop\\DESARROLLO\\.NET8TarkerBooking\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+      "targetGraphs": []
+    }
+  ]
 }

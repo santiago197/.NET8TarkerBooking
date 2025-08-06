@@ -1,9 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Tarker.Booking.Application.Interfaces;
 using Tarker.Booking.Domain.Entities.Booking;
 using Tarker.Booking.Domain.Entities.Customer;
 using Tarker.Booking.Domain.Entities.User;
@@ -11,15 +7,16 @@ using Tarker.Booking.Persistence.Configuration;
 
 namespace Tarker.Booking.Persistence.Database
 {
-    public class DataBaseService : DbContext
+    public class DataBaseService : DbContext, IDataBaseService
     {
         public DataBaseService(DbContextOptions options) : base(options)
         {
+            
         }
 
-        public DbSet<BookingEntity> Bookings { get; set; }
-        public DbSet<UserEntity> Users { get; set; }
-        public DbSet<CustomerEntity> Customers { get; set; }
+        public DbSet<BookingEntity> Booking { get; set; }
+        public DbSet<UserEntity> User { get; set; }
+        public DbSet<CustomerEntity> Customer { get; set; }
 
         public async Task<bool> SaveAsync()
         {
@@ -28,7 +25,7 @@ namespace Tarker.Booking.Persistence.Database
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            EntityConfigurations(modelBuilder)
+            EntityConfigurations(modelBuilder);
 
         }
         private void EntityConfigurations(ModelBuilder modelBuilder)

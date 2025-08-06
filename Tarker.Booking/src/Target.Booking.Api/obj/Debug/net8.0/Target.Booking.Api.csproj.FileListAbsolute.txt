@@ -30,3 +30,10 @@ C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Target.Booking
 C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.pdb
 C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.genruntimeconfig.cache
 C:\Users\santiago.rodriguez\Desktop\DESARROLLO\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\ref\Target.Booking.Api.dll
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\.NET8TarkerBooking\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.csproj.AssemblyReference.cache
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\.NET8TarkerBooking\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\.NET8TarkerBooking\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.AssemblyInfoInputs.cache
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\.NET8TarkerBooking\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.AssemblyInfo.cs
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\.NET8TarkerBooking\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.csproj.CoreCompileInputs.cache
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\.NET8TarkerBooking\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\santiago.rodriguez\Desktop\DESARROLLO\.NET8TarkerBooking\Tarker.Booking\src\Target.Booking.Api\obj\Debug\net8.0\Target.Booking.Api.sourcelink.json
